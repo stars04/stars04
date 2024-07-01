@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @stars04
-- 🌱 I’m currently learning to use Python as well as libraries like matplotlib, pandas, numpy & PyQt5
+- 🌱 I’ve since moved onto learnig java! still finding my way!
 - 📫 To reach me at this time just send a message here on gh
 
 <!---
