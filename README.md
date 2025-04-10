@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @stars04
-- 🌱 I’ve since moved onto learning java! still finding my way!
+- 🌱 I’ve since moved onto learning java & rust! still finding my way!
 - 📫 To reach me at this time just send a message here on gh
 
 <!---
